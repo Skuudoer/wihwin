@@ -16,7 +16,7 @@ We create the best tool for ethical hacker together?
 
 # **Documentation**
 ***
-To check our documentation, please, verify this [WIKI](https://github.com/Skuudoer/wihwin/wiki). 
+To know more about the tool and know the technical part, please check our [Documentation](https://github.com/Skuudoer/wihwin/wiki/Documentation). 
 
 # **Support**
 ***
