@@ -20,7 +20,7 @@ To check our documentation, please, verify this [WIKI](https://github.com/Skuudo
 
 # **Support**
 ***
-If you have any doubt or questions, please use our Community in Telegram. We will be delight to help you!
+If you have any doubt or questions, please join us to our Community in Slack (#skuudo-betatesters). We will be delight to help you!
 
 # **Contributing**
 ***
