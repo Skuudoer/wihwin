@@ -26,7 +26,7 @@ If you have any doubt or questions, please join us to our Community in Slack (#s
 ***
 If you'd like to contribute to the project, refer to the [Contribution Guide](https://github.com/Skuudoer/wihwin/wiki/Contribution-Guide).
 
-Please note that this project is released with a [Contributor Code Of Contactor](https://github.com/Skuudoer/wihwin/wiki/Code-of-Conduct). By participating in this project, you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code Of Conduct](https://github.com/Skuudoer/wihwin/wiki/Code-of-Conduct). By participating in this project, you agree to abide by its terms.
 
 # **Communications**
 ***
