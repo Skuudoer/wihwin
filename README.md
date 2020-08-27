@@ -11,3 +11,19 @@ Skuudo Platform is an agile tool created to combat the cyberattacks in efficient
 > * Challenges: Coming soon…for enjoying, learning and competing at the same time!
 -	Other technical features
 -	Browser support
+
+We create the best tool for ethical hacker together? 
+
+# **Documentation**
+***
+To check our documentation, please, verify this [WIKI](https://github.com/Skuudoer/wihwin/wiki). 
+
+# **Support**
+***
+If you have any doubt or questions, please use our Community in Telegram. We will be delight to help you!
+
+# **Contributing**
+***
+If you'd like to contribute to the project, refer to the [Contribution Guide](https://github.com/Skuudoer/wihwin/wiki/Contribution-Guide).
+
+Please note that this project is released with a [Contributor Code Of Contactor](https://github.com/Skuudoer/wihwin/wiki/Code-of-Conduct). By participating in this project, you agree to abide by its terms.
