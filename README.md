@@ -9,11 +9,11 @@ We admit that we are perfectionists a bit, hence we launched a limited beta test
 Once the beta testing program is completed the community version will be available for everyone as well as its source code which will be licenced under GPLv3.
  
 Few words about the tool, it is a cross-platform application (html5) that leverages agile methodology and automation to assist in various aspects of the security testing process:
-..*Save your time and effort with the Agile Project Management that includes a rich visual Dashboard, Calendar and Kanban Boards for managing your daily tasks.
-..*Forget forever about the nuisance of manually writing reports with Automated Reports and Smart Report Templates.
-..*Never search Google again for cheatsheet-s or howto-s - discover and capture new knowledge with Patterns and Library. 
-..*Create and experiment with your unique hacking scenarios with Automation Playbooks. Include Automation Playbooks in your Patterns or Kanban Boards to automate every aspect of your projects.
-..*Challenge yourself,  learn and build your hacking skills with Skuudo’s Challenges.
+- Save your time and effort with the Agile Project Management that includes a rich visual Dashboard, Calendar and Kanban Boards for managing your daily tasks.
+- Forget forever about the nuisance of manually writing reports with Automated Reports and Smart Report Templates.
+- Never search Google again for cheatsheet-s or howto-s - discover and capture new knowledge with Patterns and Library. 
+- Create and experiment with your unique hacking scenarios with Automation Playbooks. Include Automation Playbooks in your Patterns or Kanban Boards to automate every aspect of your projects.
+- Challenge yourself,  learn and build your hacking skills with Skuudo’s Challenges.
 
 
 # **Documentation**
